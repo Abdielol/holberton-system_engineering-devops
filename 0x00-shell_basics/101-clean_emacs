@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -files "*~" -exec rm -i {} /;
+rm -r -- -~

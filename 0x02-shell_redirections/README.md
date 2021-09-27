@@ -1,0 +1,1 @@
+In I/O redirections will see how to use the output and input 
